@@ -16,7 +16,7 @@ Cette organisation "Nomades" vise à documenter les pratique collaborative qui p
 
 Une rencontre provoquée au détour d'une étape sur un tour itinérant avec [Stéphane Langlois](http://scopyleft.fr/) à Nantes lors d'une collaboration sur le plateforme [Multibao](http://www.multibao.org/). 
 
-[Thomas Wolff](https://twitter.com/thom_wolff) est la personne qui a favoriser cette rencontre. Nous avons travaillé tous trois ensmeble à l'améliration de multibao pendant une semaine à Nantes. 
+[Thomas Wolff](https://twitter.com/thom_wolff) est la personne qui a favorisé cette rencontre. Nous avons travaillé tous trois ensmeble à l'améliration de multibao pendant une semaine à Nantes. 
 
 Stéphane Langlois pratique le nomadisme comme choix de vie et comme philosophie au quotidien et dans son travail de développeur web.
 Thomas Wolff est un nomade occasionnel dans ses diférents projets entrepreneuriaux et dans ces réalisations diverses et variées.
