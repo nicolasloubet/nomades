@@ -82,7 +82,6 @@ D'après Wikipédia:
 
 <ul>
 <li><a href="/wiki/Gens_du_voyage" title="Gens du voyage">Gens du voyage</a></li>
-test
 <li><a href="/wiki/Nomades_de_la_mer" title="Nomades de la mer">Nomades de la mer</a></li>
 <li><a href="/wiki/Nomade_du_sel" title="Nomade du sel">Nomade du sel</a></li>
 <li><a href="/wiki/Caravane_(v%C3%A9hicule)" title="Caravane (véhicule)">Caravane (véhicule)</a></li>
