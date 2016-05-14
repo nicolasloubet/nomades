@@ -79,14 +79,10 @@ D'après Wikipédia:
     Le nomadisme [lequel ?] représenterait, quant à lui, 20 % de la population active.
     73 % des cadres français travaillent en dehors de leur bureau.
     On dénombre 1 milliard de travailleurs nomades dans le monde en 2011
-    
-Ceci est un test
-
-    Extrait #1
-        Extrait #2
 
 <ul>
 <li><a href="/wiki/Gens_du_voyage" title="Gens du voyage">Gens du voyage</a></li>
+test
 <li><a href="/wiki/Nomades_de_la_mer" title="Nomades de la mer">Nomades de la mer</a></li>
 <li><a href="/wiki/Nomade_du_sel" title="Nomade du sel">Nomade du sel</a></li>
 <li><a href="/wiki/Caravane_(v%C3%A9hicule)" title="Caravane (véhicule)">Caravane (véhicule)</a></li>
